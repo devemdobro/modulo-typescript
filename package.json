@@ -1,0 +1,23 @@
+{
+  "name": "modulo-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devemdobro/modulo-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devemdobro/modulo-typescript/issues"
+  },
+  "homepage": "https://github.com/devemdobro/modulo-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
